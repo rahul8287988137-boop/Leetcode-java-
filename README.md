@@ -108,6 +108,7 @@ solve every day one leetcode problem
 | [0342-power-of-four](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
+| [2235-add-two-integers](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2235-add-two-integers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
