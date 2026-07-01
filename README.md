@@ -15,6 +15,7 @@ solve every day one leetcode problem
 | [0075-sort-colors](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0912-sort-an-array/) | Medium |
@@ -27,6 +28,7 @@ solve every day one leetcode problem
 | [0035-search-insert-position](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
