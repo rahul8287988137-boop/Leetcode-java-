@@ -9,6 +9,7 @@ solve every day one leetcode problem
 | [0074-search-a-2d-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0075-sort-colors/) | Medium |
 | [0867-transpose-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0867-transpose-matrix/) | Easy |
+| [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0912-sort-an-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -83,10 +84,12 @@ solve every day one leetcode problem
 | [0009-palindrome-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0009-palindrome-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +98,8 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
