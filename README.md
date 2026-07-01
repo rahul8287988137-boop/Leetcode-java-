@@ -93,6 +93,7 @@ solve every day one leetcode problem
 | [0066-plus-one](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0066-plus-one/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0231-power-of-two](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0231-power-of-two/) | Easy |
+| [0263-ugly-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
