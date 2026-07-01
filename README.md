@@ -81,6 +81,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0009-palindrome-number/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
