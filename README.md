@@ -69,6 +69,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0191-number-of-1-bits/) | Easy |
+| [0342-power-of-four](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0342-power-of-four/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0009-palindrome-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0342-power-of-four](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
 ## Dynamic Programming
@@ -93,6 +95,7 @@ solve every day one leetcode problem
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0342-power-of-four](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
