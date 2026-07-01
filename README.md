@@ -91,6 +91,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0075-sort-colors/) | Medium |
+| [0202-happy-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0202-happy-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ solve every day one leetcode problem
 | [0029-divide-two-integers](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0066-plus-one/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0202-happy-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
@@ -137,6 +139,7 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0013-roman-to-integer/) | Easy |
+| [0202-happy-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
