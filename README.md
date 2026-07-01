@@ -78,6 +78,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0054-spiral-matrix/) | Medium |
+| [0258-add-digits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0258-add-digits/) | Easy |
 | [0867-transpose-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0867-transpose-matrix/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ solve every day one leetcode problem
 | [0172-factorial-trailing-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0326-power-of-three/) | Easy |
@@ -151,4 +153,8 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0013-roman-to-integer/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
