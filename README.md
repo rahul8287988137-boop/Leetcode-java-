@@ -77,4 +77,8 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
