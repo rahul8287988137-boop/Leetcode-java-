@@ -59,4 +59,8 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 <!---LeetCode Topics End-->
