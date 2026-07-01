@@ -22,6 +22,7 @@ solve every day one leetcode problem
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -62,5 +63,6 @@ solve every day one leetcode problem
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 <!---LeetCode Topics End-->
