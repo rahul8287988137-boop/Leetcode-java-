@@ -46,6 +46,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0190-reverse-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0912-sort-an-array/) | Medium |
@@ -97,6 +98,7 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
