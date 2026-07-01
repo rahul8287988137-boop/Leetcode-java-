@@ -84,6 +84,7 @@ solve every day one leetcode problem
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0013-roman-to-integer/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0172-factorial-trailing-zeroes/) | Medium |
