@@ -20,11 +20,16 @@ class Solution {
         if(num == 0){
             return 1;
         }
-        while(num>0){
-            count++;
-            num = num/10;
-        }
-        return count;
+        // using while loop
+        // while(num>0){
+        //     count++;
+        //     num = num/10;
+        // }
+        // return count;
+
+        //using Math.log10() function
+        return (int) (Math.log10(num)) + 1;
+
     }
     
 }
