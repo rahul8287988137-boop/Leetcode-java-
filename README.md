@@ -21,6 +21,7 @@ solve every day one leetcode problem
 | [0867-transpose-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0912-sort-an-array/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -131,6 +132,7 @@ solve every day one leetcode problem
 | [0342-power-of-four](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2235-add-two-integers/) | Easy |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Dynamic Programming
