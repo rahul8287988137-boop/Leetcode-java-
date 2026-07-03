@@ -15,6 +15,7 @@ solve every day one leetcode problem
 | [0075-sort-colors](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -33,6 +34,7 @@ solve every day one leetcode problem
 | [0035-search-insert-position](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -111,6 +113,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0075-sort-colors/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0202-happy-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
