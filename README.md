@@ -176,4 +176,8 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0258-add-digits/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
