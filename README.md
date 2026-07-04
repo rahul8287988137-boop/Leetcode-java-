@@ -180,4 +180,5 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0595-big-countries/) | Easy |
+| [0620-not-boring-movies](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0620-not-boring-movies/) | Easy |
 <!---LeetCode Topics End-->
