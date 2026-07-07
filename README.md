@@ -181,6 +181,7 @@ solve every day one leetcode problem
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0584-find-customer-referee](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0620-not-boring-movies/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
