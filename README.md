@@ -39,6 +39,7 @@ solve every day one leetcode problem
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
+| [0441-arranging-coins](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0441-arranging-coins/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -139,6 +140,7 @@ solve every day one leetcode problem
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0342-power-of-four/) | Easy |
+| [0441-arranging-coins](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
