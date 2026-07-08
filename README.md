@@ -143,6 +143,7 @@ solve every day one leetcode problem
 | [0441-arranging-coins](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2235-add-two-integers/) | Easy |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
@@ -151,6 +152,7 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1025-divisor-game/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1025-divisor-game/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,4 +192,8 @@ solve every day one leetcode problem
 | [0595-big-countries](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0620-not-boring-movies/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
