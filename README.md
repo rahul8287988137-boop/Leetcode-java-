@@ -140,6 +140,7 @@ solve every day one leetcode problem
 | [0258-add-digits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0342-power-of-four/) | Easy |
 | [0441-arranging-coins](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0441-arranging-coins/) | Easy |
@@ -169,6 +170,7 @@ solve every day one leetcode problem
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1025-divisor-game/) | Easy |
 ## Hash Table
@@ -198,5 +200,6 @@ solve every day one leetcode problem
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
