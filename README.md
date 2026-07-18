@@ -135,6 +135,7 @@ solve every day one leetcode problem
 | [0029-divide-two-integers](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0231-power-of-two/) | Easy |
@@ -155,6 +156,7 @@ solve every day one leetcode problem
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
@@ -169,6 +171,7 @@ solve every day one leetcode problem
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
