@@ -200,6 +200,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0175-combine-two-tables/) | Easy |
+| [0185-department-top-three-salaries](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0577-employee-bonus](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0595-big-countries/) | Easy |
