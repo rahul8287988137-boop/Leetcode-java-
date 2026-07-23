@@ -21,6 +21,7 @@ solve every day one leetcode problem
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -42,6 +43,7 @@ solve every day one leetcode problem
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0441-arranging-coins](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0441-arranging-coins/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -114,6 +116,7 @@ solve every day one leetcode problem
 | [0191-number-of-1-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0342-power-of-four/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 ## Two Pointers
@@ -123,6 +126,7 @@ solve every day one leetcode problem
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
